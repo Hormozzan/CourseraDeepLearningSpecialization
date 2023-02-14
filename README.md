@@ -1,3 +1,3 @@
 # CourseraDeepLearningSpecialization
 
-My answers to Coursera Deep Learning Specialization Assignments
+My solutions to Coursera Deep Learning Specialization Assignments
